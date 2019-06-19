@@ -44,7 +44,7 @@ class Vehicle {
             gear = gear - 1;
         }
     }
-    void setSpeed(){//Мой код поека не разобрался
+    void setSpeed(){//Мой код пока не разобрался
        if (isOn = true && gear > 1){
            speed =speed + 10;
        }
